@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.deps.json
+C:\Users\cback\source\repos\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.runtimeconfig.json
+C:\Users\cback\source\repos\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\cback\source\repos\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.dll
+C:\Users\cback\source\repos\ExceptionHandling\bin\Debug\netcoreapp2.1\ExceptionHandling.pdb
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.dll
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.pdb
+C:\Users\cback\source\repos\ExceptionHandling\obj\Debug\netcoreapp2.1\ExceptionHandling.csprojAssemblyReference.cache
